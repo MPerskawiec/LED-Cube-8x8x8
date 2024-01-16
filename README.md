@@ -1,5 +1,5 @@
 # LED-Cube-8x8x8
-This 8x8x8 LED Cube, featuring a total of 512 LEDs, represents my first advanced project undertaken during high school. Controlled by an ATMEGA32APU processor  with other electronic components.
+This 8x8x8 LED Cube, featuring a total of 512 LEDs, represents my first advanced project undertaken during high school. Controlled by an ATMEGA32APU processor  with other electronic components. 
 
 https://github.com/MPerskawiec/LED-Cube-8x8x8/assets/96746401/bd34897b-8189-4a5d-885a-5b0a4710996e
 
